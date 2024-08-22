@@ -1,6 +1,6 @@
 <?php
 
-    include "conexao.php";
+    include "conection.php";
 
     $nome = $_GET['nome'];
     $valor = $_GET['valor'];

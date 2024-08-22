@@ -1,6 +1,6 @@
 <?php
 
-    include "conexao.php";
+    include "conection.php";
 
     $select = "SELECT * FROM produtos";
 
