@@ -2,7 +2,7 @@
 
     $servidor = "localhost";
     $usuario = "root";
-    $senha = "15186706442";
+    $senha = "151867064";
     $db = "loja";
 
 
